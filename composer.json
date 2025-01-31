@@ -1,0 +1,21 @@
+{
+  "name": "preppygassou/headless-cms",
+  "description": "A WordPress plugin that adds features to use WordPress as a headless CMS with any front-end environment using REST API",
+  "type": "wordpress-plugin",
+  "license": "GPL-3.0+",
+  "version": "2.0.3",
+  "keywords": [
+	"wordpress",
+	"plugin"
+  ],
+  "require": {
+	"php": ">=5.4.0"
+  },
+  "homepage": "https://github.com/preppygassou/wp-headless-cms",
+  "authors": [
+	{
+	  "name": "Preppy Gassou",
+	  "email": "ninopreppy@gmail.com"
+	}
+  ]
+}
